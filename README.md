@@ -34,7 +34,6 @@ Well... There are numbers of factors which we have to talk about.
 
 
 # Sources
-
 ### Energy sources by country
 - [http://wdi.worldbank.org/table/3.7](http://wdi.worldbank.org/table/3.7) (data from 2015)
 - You can see/use this information in /Sources folder processed into .xlsx  and .csv formats
@@ -47,5 +46,4 @@ Well... There are numbers of factors which we have to talk about.
 - According to [https://www.tfaforms.com/4666774](https://www.tfaforms.com/4666774), it is roughly 15.7kg
 
 # Dependencies
-
 We can proudly say that this calculator does not need any dependencies. It is pure HTML, CSS and JavaScript. Just open the html file in any modern web browser (note: not tested, [and won't be] in IE), and you are good to go!
